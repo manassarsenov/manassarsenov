@@ -1,16 +1,19 @@
-## Hi there 👋
+Junior Python Backend Developer
 
-<!--
-**manassarsenov/manassarsenov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about building scalable and reliable backend systems using Python and Django.
+Experienced in developing RESTful APIs, working with databases, and deploying applications using modern DevOps tools.
 
-Here are some ideas to get you started:
+Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python | Django | Django REST Framework
+
+REST API Development
+
+PostgreSQL | Redis
+
+Docker | Docker Compose | Nginx
+
+Git | GitHub
+
+Currently improving my skills in backend architecture, performance optimization, and system design.
+🚀 Open to Junior Backend / Internship opportunities.

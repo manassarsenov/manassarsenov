@@ -3,7 +3,7 @@ Junior Python Backend Developer<br><br>Backend developer specializing in Django 
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/manas.sarsenov) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manas.sarsenov) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarsenovmanas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarsenovmanas186@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/manas.sarsenov) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manas.sarsenov) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manassarsem) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarsenovmanas186@gmail.com) 
 
 ## 🌱 I’m Currently Learning:
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![System Design](https://img.shields.io/badge/System_Design-6CC24A?style=for-the-badge&logo=draw.io&logoColor=white) ![Server Deployment](https://img.shields.io/badge/Server_Deployment-FFA500?style=for-the-badge&logo=linux&logoColor=white) ![WebSocket](https://img.shields.io/badge/WebSocket-0088FF?style=for-the-badge&logo=websocket&logoColor=white) ![API Security](https://img.shields.io/badge/API_Security-FF6F61?style=for-the-badge)

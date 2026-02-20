@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.png" alt="Banner" width="100%"/>
+</p>
 # 💫 About Me:
 Junior Python Backend Developer<br><br>Backend developer specializing in Django & Django REST Framework.<br>I enjoy building RESTful services, designing databases, and solving real-world problems through clean and maintainable code.
 
